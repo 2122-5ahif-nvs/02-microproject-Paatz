@@ -1,0 +1,25 @@
+@startuml
+
+class Dancer{
+  String name
+  String address
+  int age
+}
+
+class Group{
+   String groupName
+}
+
+class Meeting{
+    String day
+}
+
+Dancer "*" -- "1" Group
+Group "1" -- "1...*" Meeting
+
+
+hide members
+show Dancer fields
+show Group fields
+show Meeting fields
+@enduml
