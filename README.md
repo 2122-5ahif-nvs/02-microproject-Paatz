@@ -1,6 +1,6 @@
 # 02-microproject-Paatz
 
-## dance school
+## Dance school
 The administration of a dance school has to be implemented.
 Many dancers are registered in this dance school,
 and each of these dancers belongs to a group.
