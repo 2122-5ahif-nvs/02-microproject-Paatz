@@ -20,31 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="Further changes">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/css/presentation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/docinfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/images/cld.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/images/erd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/images/ucd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/index.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build-slides-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clean-all.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download-reveal.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/images/cld.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/cld.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/images/erd.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/erd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/images/ucd.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2021_23_10_[Default_Changelist]/ucd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/plantuml/cld.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs-slides/plantuml/cld.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/plantuml/erd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs-slides/plantuml/erd.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs/plantuml/ucd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs-slides/plantuml/ucd.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-pdf-docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build-pdf-docker.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publish-gh-pages.sh" beforeDir="false" afterPath="$PROJECT_DIR$/publish-gh-pages.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs-slides/index.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +78,7 @@
       <updated>1633518159371</updated>
       <workItem from="1633518162221" duration="1645000" />
       <workItem from="1633870463676" duration="74000" />
-      <workItem from="1633897568295" duration="2701000" />
+      <workItem from="1633897568295" duration="3173000" />
     </task>
     <task id="LOCAL-00001" summary="Further Changes">
       <created>1633518399725</created>
@@ -139,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633899125182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Further changes">
+      <created>1633900442293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633900442293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
