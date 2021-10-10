@@ -1,0 +1,32 @@
+@startuml
+
+class Dancer {
+   - firstname
+   - lastname
+   - address
+   - age
+}
+
+class DanceTeacher{
+}
+
+class Group {
+   - name
+   - ageLimit
+   - dancerLimit
+}
+
+class Danceclass{
+   - time
+}
+
+class Room{
+    - number
+    - personLimit
+}
+
+Dancer <|-- DanceTeacher
+Group "1" -up- "*" Dancer : has >
+Group "1" -down- "1..*" Danceclass : assigned to >
+Danceclass "1" -down- "1" Room : is in >
+@enduml

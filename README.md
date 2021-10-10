@@ -12,3 +12,12 @@ The user should also be able to delete dancers.
 The user should be able to edit data from dancers.
 The user should be able to assign dancers to groups.
 The user should be able to define the practice times for the dance-classes.
+
+## CLD
+![CLD](asciidocs/images/cld.png)
+
+## UCD
+![UCD](asciidocs/images/ucd.png)
+
+## ERD
+![ERD](asciidocs/images/erd.png)
