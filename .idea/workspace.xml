@@ -20,34 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="Further changes">
-      <change afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asciidocs/index.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/cld.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/erd.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/ucd.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build-html-docker-inside-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/publish-gh-pages-inside-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/run-inside-docker.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/.nojekyll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/css/presentation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/docinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/docinfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/cld.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/cld.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/erd.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/erd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/ucd.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/ucd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/images/.keep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/cld.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/cld.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/erd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/erd.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/ucd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/ucd.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-pdf-docker.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-slides-docker.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean-all.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/download-reveal.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publish-gh-pages.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/asciidocs/plantuml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -116,6 +89,7 @@
       <workItem from="1633870463676" duration="74000" />
       <workItem from="1633897568295" duration="3222000" />
       <workItem from="1633902941879" duration="1581000" />
+      <workItem from="1633908079081" duration="427000" />
     </task>
     <task id="LOCAL-00001" summary="Further Changes">
       <created>1633518399725</created>
