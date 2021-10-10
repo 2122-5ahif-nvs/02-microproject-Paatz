@@ -13,5 +13,4 @@ user --> UC1
 user --> UC2
 user --> UC3
 user --> UC4
-user --> UC5
 @enduml
