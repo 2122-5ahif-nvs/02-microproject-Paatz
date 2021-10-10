@@ -9,10 +9,11 @@ ORIGIN_URL=$(git config --get remote.origin.url)
 ${PWD}/build-slides-docker.sh
 cd $BUILD_DIR
 git init
+git branch -M main
 git add .
 git commit -m "$USER - rebuilding gh-pages $(date)"
 git remote add origin $ORIGIN_URL
-git push --force origin master:gh-pages
+git push --force origin main:gh-pages
 cd $OLD
 rm -rf $BUILD_DIR
 

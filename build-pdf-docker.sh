@@ -6,7 +6,7 @@ cp -r -p -v asciidocs $BUILD_DIR
 #cp -r -p -v src $BUILD_DIR
 docker run --rm \
            -v ${PWD}/$BUILD_DIR:/documents \
-           asciidoctor/docker-asciidoctor asciidoctor-pdf \
+           asciidoctor/docker-asciidoctor:1.11.0 asciidoctor-pdf \
            -r asciidoctor-diagram \
            -a icons=font \
            -a icons-set=fas \
