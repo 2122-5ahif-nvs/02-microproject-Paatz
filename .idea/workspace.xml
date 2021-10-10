@@ -20,7 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="Further changes">
+      <change afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asciidocs/index.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/cld.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/erd.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asciidocs/plantuml/ucd.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build-html-docker-inside-docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/publish-gh-pages-inside-docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/run-inside-docker.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/.nojekyll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/css/presentation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/docinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/docinfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/cld.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/cld.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/erd.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/erd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/images/ucd.png" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/images/ucd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/images/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/cld.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/cld.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/erd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/erd.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/plantuml/ucd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/plantuml/ucd.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs-slides/themes/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-pdf-docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-slides-docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download-reveal.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish-gh-pages.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +65,29 @@
     </option>
   </component>
   <component name="ProjectId" id="1z883uDwzgHfn4V13JME5WkaD4U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ascidoc/plantuml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/asciidocs/plantuml" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/asciidocs/plantuml" />
+      <recent name="$PROJECT_DIR$/docs/asciidocs/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/asciidocs/plantuml" />
       <recent name="C:\Users\patri\Documents\Schule\Maturaklasse\NVS PROO\02-microprojekt\ascidoc\images" />
     </key>
   </component>
@@ -79,6 +115,7 @@
       <workItem from="1633518162221" duration="1645000" />
       <workItem from="1633870463676" duration="74000" />
       <workItem from="1633897568295" duration="3222000" />
+      <workItem from="1633902941879" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="Further Changes">
       <created>1633518399725</created>
@@ -148,23 +185,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Further Changes" />
     <MESSAGE value="Further changes - diagrams are shown as graphics in readme-file" />
     <MESSAGE value="Further changes" />
     <option name="LAST_COMMIT_MESSAGE" value="Further changes" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1633898805093">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1633898805093" />
-    <state x="407" y="173" key="MultipleFileMergeDialog" timestamp="1633900245528">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="407" y="173" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1633900245528" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1633900785438">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1633900785438" />
   </component>
 </project>
