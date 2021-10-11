@@ -24,13 +24,13 @@ git init
 git add .
 git commit -m "$GIT_GLOBAL_USER_NAME - rebuilding gh-pages $(date)"
 
-# rename branch to 'master' if necessary
+# rename branch to 'main' if necessary
 CURRENT_BRANCH=$(git branch --show-current)
 echo "current branch: $CURRENT_BRANCH"
-if [ "$CURRENT_BRANCH" != "master" ]
+if [ "$CURRENT_BRANCH" != "main" ]
 then
-  git branch -M master
-  echo "branch $CURRENT_BRANCH renamed to 'master'"
+  git branch -M main
+  echo "branch $CURRENT_BRANCH renamed to 'main'"
 else
   echo "branch $CURRENT_BRANCH not renamed"
 fi
