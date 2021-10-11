@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="gh-pages should be added" />
+    <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="gh-pages should be added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asciidocs/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/index.adoc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +99,7 @@
       <workItem from="1633951086902" duration="453000" />
       <workItem from="1633951606365" duration="467000" />
       <workItem from="1633952922048" duration="25000" />
+      <workItem from="1633952990536" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="Further Changes">
       <created>1633518399725</created>
