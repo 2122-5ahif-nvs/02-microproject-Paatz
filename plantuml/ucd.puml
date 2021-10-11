@@ -1,0 +1,16 @@
+@startuml
+left to right direction
+actor User as user
+
+package DanceSchool {
+  usecase "manage dancers" as UC1
+  usecase "manage rooms" as UC2
+  usecase "manage groups" as UC3
+  usecase "manage danceclasses" as UC4
+}
+
+user --> UC1
+user --> UC2
+user --> UC3
+user --> UC4
+@enduml
