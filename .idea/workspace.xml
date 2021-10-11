@@ -19,36 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="gh-pages should be added">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/docinfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/index.adoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/plantuml/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/themes/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asciidocs/themes/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build-html-docker-inside-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publish-gh-pages-inside-docker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-inside-docker.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/docinfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/images/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/index.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/plantuml/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/plantuml/cld.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/plantuml/erd.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/plantuml/ucd.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asciidocs/themes/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build-html-docker-inside-docker.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/publish-gh-pages-inside-docker.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/run-inside-docker.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
-    </list>
+    <list default="true" id="b9444333-ad8a-4126-9a2e-c916b082e8e4" name="Default Changelist" comment="gh-pages should be added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +95,7 @@
       <workItem from="1633942444577" duration="624000" />
       <workItem from="1633951086902" duration="453000" />
       <workItem from="1633951606365" duration="467000" />
+      <workItem from="1633952922048" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Further Changes">
       <created>1633518399725</created>
