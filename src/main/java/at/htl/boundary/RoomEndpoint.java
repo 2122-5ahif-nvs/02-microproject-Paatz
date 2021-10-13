@@ -12,7 +12,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
 
 @RequestScoped
-@Path("/rooms")
+@Path("api/rooms")
 @Tag(name = "Room REST endpoint")
 public class RoomEndpoint {
     @Inject

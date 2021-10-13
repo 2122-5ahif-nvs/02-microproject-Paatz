@@ -2,7 +2,11 @@ package at.htl.boundary;
 
 import at.htl.control.DancerRepository;
 import at.htl.entities.DanceClass;
+import org.eclipse.microprofile.openapi.annotations.ExternalDocumentation;
+import org.eclipse.microprofile.openapi.annotations.OpenAPIDefinition;
 import org.eclipse.microprofile.openapi.annotations.Operation;
+import org.eclipse.microprofile.openapi.annotations.info.Contact;
+import org.eclipse.microprofile.openapi.annotations.info.Info;
 import org.eclipse.microprofile.openapi.annotations.tags.Tag;
 
 import javax.enterprise.context.RequestScoped;
@@ -12,7 +16,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
 
 @RequestScoped
-@Path("/dancers")
+@Path("api/dancers")
 @Tag(name = "Dancer REST endpoint")
 public class DancerEndpoint {
     @Inject
