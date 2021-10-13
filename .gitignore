@@ -2,7 +2,7 @@ build-docs-html/
 build-docs-pdf/
 build-docs-revealjs/
 target/
-asciidocs/revealjs/
+backend/asciidocs/revealjs/
 revealjs.zip
 gh-pages/
 .idea/

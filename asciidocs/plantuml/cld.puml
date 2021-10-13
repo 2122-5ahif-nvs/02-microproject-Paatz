@@ -16,7 +16,7 @@ class Group {
    - dancerLimit
 }
 
-class Danceclass{
+class DanceClass{
    - time
 }
 
@@ -27,6 +27,6 @@ class Room{
 
 Dancer <|-- DanceTeacher
 Group "1" -up- "*" Dancer : has >
-Group "1" -down- "1..*" Danceclass : assigned to >
-Danceclass "1" -down- "1" Room : is in >
+Group "1" -down- "1..*" DanceClass : assigned to >
+DanceClass "1" -down- "1" Room : is in >
 @enduml
