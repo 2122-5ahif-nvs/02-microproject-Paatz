@@ -1,7 +1,11 @@
 package at.htl.entities;
 
+import org.eclipse.microprofile.openapi.annotations.media.Schema;
+
+import javax.json.bind.annotation.JsonbProperty;
 import javax.persistence.*;
 
+@Schema(description = "Rooms for Danceclasses")
 @Entity
 @Table(name="ROOM")
 public class Room {
@@ -9,9 +13,13 @@ public class Room {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
+    @Schema(required = true)
+    @JsonbProperty("number")
     @Column(name="NUBMER")
     private int number;
 
+    @Schema(required = true)
+    @JsonbProperty("personlimit")
     @Column(name = "PERSONLIMIT")
     private int personLimit;
 
