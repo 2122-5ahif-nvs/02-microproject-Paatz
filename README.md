@@ -15,10 +15,10 @@ The user should be able to define the practice times for the dance-classes.
 
 ## CLD
 
-![CLD](Documents/HTL/Maturaklasse/NVS PROO/02-microproject-Paatz/backend/asciidocs/images/cld.png)
+![CLD](asciidocs/images/cld.png)
 
 ## UCD
-![UCD](Documents/HTL/Maturaklasse/NVS PROO/02-microproject-Paatz/backend/asciidocs/images/ucd.png)
+![UCD](asciidocs/images/ucd.png)
 
 ## ERD
-![ERD](Documents/HTL/Maturaklasse/NVS PROO/02-microproject-Paatz/backend/asciidocs/images/erd.png)
+![ERD](asciidocs/images/erd.png)
